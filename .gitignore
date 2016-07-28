@@ -5,7 +5,6 @@ typings
 Thumbs.db
 .DS_Store
 
-*.js
 *.map
 *.d.ts
 !custom.d.ts
